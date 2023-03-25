@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>mettta@gmail.com</string>
+	<key>contactName</key>
+	<string>Maryna Balioura</string>
+	<key>description</key>
+	<string>Support for the &lt;a href="https://github.com/strictdoc-project/"&gt;StrictDoc&lt;/a&gt; markup language.</string>
+	<key>name</key>
+	<string>StrictDoc</string>
+	<key>uuid</key>
+	<string>712A6AD4-A468-45CA-BADC-50052C32E3C0</string>
+</dict>
+</plist>
