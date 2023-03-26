@@ -1,10 +1,15 @@
 # StrictDoc.tmbundle
 StrictDoc.tmbundle is a TextMate bundle that provides support for StrictDoc markup.
 
-## Alternative for VS Code, JetBrains IDE and similar.
+## Alternative for VS Code, JetBrains IDE and similar
 
 Most IDEs use JSON to describe the syntax.
 In that case, you should visit [strictdoc-project/strictdoc.tmLanguage](https://github.com/strictdoc-project/strictdoc.tmLanguage) repository.
+
+## Alternative for Sublime Text
+
+Sublime Text can use both .sublime-syntax and .tmLanguage files for syntax highlighting. 
+We recommend that you use this version: [strictdoc-project/strictdoc.sublime-syntax](https://github.com/strictdoc-project/strictdoc.sublime-syntax) because its syntax is more precise and works correctly with the included RST markup.
 
 ## Included RST markup
 
