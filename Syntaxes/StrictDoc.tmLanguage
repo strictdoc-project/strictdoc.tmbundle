@@ -253,7 +253,7 @@
 						</dict>
 					</dict>
 					<key>match</key>
-					<string>(^\s\sREQUIREMENT_STYLE:)\s\b(Inline|Simple|Table|Zebra)\b$</string>
+					<string>(^\s\sREQUIREMENT_STYLE:)\s\b(Inline|Simple|Table|Zebra|Narrative)\b$</string>
 					<key>name</key>
 					<string>constant.numeric</string>
 				</dict>
